@@ -5,6 +5,6 @@ Trabalho desenvolvido no ambito da UC de Mestrado de Eng.Informática do isec em
 
 Ferramentas utilizadas
 
-Data_integration/ETL-tool: Spoon 
-Database: Postgres14
-Visualization: Metabase
+Data_integration/ETL-tool: Spoon,
+Database: Postgres14,
+Visualization: Metabase,
